@@ -1,0 +1,1 @@
+<base href="http://www.learningcurve.gov.uk/greatwar/iishelp/common/">

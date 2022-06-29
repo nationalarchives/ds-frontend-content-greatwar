@@ -1,0 +1,1 @@
+<img src="/greatwar/images/layout/topnav_searchplace_image.gif" width="194" height="92" alt="" />
